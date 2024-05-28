@@ -105,4 +105,4 @@ deploy:
   repo: https://github.com/yujouwu/2024BootCampTask3Hexo
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
-  message: "第4版更新"
+  message: "第5版更新"
